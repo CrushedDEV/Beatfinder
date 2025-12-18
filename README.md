@@ -30,7 +30,7 @@
 
 ## Autor
 
-**Oihan Gomez** y compañero de clase – Trabajo final DAW – [GitHub](https://github.com/tu-usuario)  
+**Oihan Gomez** y compañero de clase – Trabajo final DAW – [GitHub](https://github.com/CrushedDEV)  
 
 ## Licencia
 
