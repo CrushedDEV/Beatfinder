@@ -1,0 +1,27 @@
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .register-center {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .login-text {
+    text-align: center;
+    color: #fff;
+  }
+  
+  .login-text a {
+    color: #d5a1ff;
+  }
+
+  .social-register{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 15px;
+  }
+
+  

@@ -1,0 +1,27 @@
+.dashboard-container {
+    margin-top: 20px;
+  }
+  
+  .section-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #cacaca;
+  }
+  
+  .custom-card {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 20px;
+  }
+  
+  .welcome-text {
+    font-size: 24px;
+    font-weight: bold;
+    color: #cacaca;
+  }
+  
+  .welcome-text span {
+    color: #d17f21;
+  }

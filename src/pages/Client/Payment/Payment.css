@@ -1,0 +1,95 @@
+.payment-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  color: #FFFFFF;
+}
+
+.custom-cart-item {
+  background: rgba(231, 188, 241, 0.15);
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 15px;
+  font-family: "Poppins", serif;
+}
+
+.custom-cart-item__cover {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.custom-card-body {
+  padding: 20px;
+}
+
+.custom-card-title {
+  font-size: 20px;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+}
+
+.custom-card-text {
+  font-size: 18px;
+  line-height: 1.6;
+  color: #E2E2E2;
+  margin-bottom: 8px;
+}
+
+.custom-card-text strong {
+  font-weight: 700;
+}
+
+.custom-card .btn-danger {
+  background-color: #FF4747;
+  color: white;
+  padding: 8px 12px;
+  font-size: 16px;
+  border-radius: 50%;
+  border: none;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s;
+}
+
+.custom-card .btn-danger:hover {
+  background-color: #FF0000;
+}
+
+.summary-section {
+  background: #F9F9F9;
+  color: black;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  height: 40vh;
+}
+
+.summary-section h3 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #333333;
+}
+
+.summary-section p {
+  font-size: 18px;
+  color: #555;
+}
+
+.custom-title-price {
+  color: #6A1B9A;
+  font-size: 28px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.btn-primary:hover {
+  background-color: #4B0082;
+}
+
+.backbutton {
+
+  margin-left: 200px;
+}
